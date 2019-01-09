@@ -1,0 +1,14 @@
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\bin\Debug\netcoreapp2.1\ScoreGeniusAPI.deps.json
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\bin\Debug\netcoreapp2.1\ScoreGeniusAPI.runtimeconfig.json
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\bin\Debug\netcoreapp2.1\ScoreGeniusAPI.runtimeconfig.dev.json
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\bin\Debug\netcoreapp2.1\ScoreGeniusAPI.dll
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\bin\Debug\netcoreapp2.1\ScoreGeniusAPI.pdb
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.csproj.CoreCompileInputs.cache
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.RazorAssemblyInfo.cache
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.RazorAssemblyInfo.cs
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.AssemblyInfoInputs.cache
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.AssemblyInfo.cs
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.RazorTargetAssemblyInfo.cache
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.dll
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.pdb
+C:\Rikesh\ProjectWork\ScoreGeniusAPI\ScoreGeniusAPI\obj\Debug\netcoreapp2.1\ScoreGeniusAPI.csprojAssemblyReference.cache
